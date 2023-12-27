@@ -1,0 +1,14 @@
+C:\Users\vadde.c.sai\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\dotnet\myconsole\obj\Debug\net8.0\myconsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vadde.c.sai\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\dotnet\myconsole\obj\Debug\net8.0\myconsole.AssemblyInfoInputs.cache
+C:\Users\vadde.c.sai\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\dotnet\myconsole\obj\Debug\net8.0\myconsole.AssemblyInfo.cs
+C:\Users\vadde.c.sai\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\dotnet\myconsole\obj\Debug\net8.0\myconsole.csproj.CoreCompileInputs.cache
+C:\Users\vadde.c.sai\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\dotnet\myconsole\bin\Debug\net8.0\myconsole.exe
+C:\Users\vadde.c.sai\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\dotnet\myconsole\bin\Debug\net8.0\myconsole.deps.json
+C:\Users\vadde.c.sai\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\dotnet\myconsole\bin\Debug\net8.0\myconsole.runtimeconfig.json
+C:\Users\vadde.c.sai\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\dotnet\myconsole\bin\Debug\net8.0\myconsole.dll
+C:\Users\vadde.c.sai\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\dotnet\myconsole\bin\Debug\net8.0\myconsole.pdb
+C:\Users\vadde.c.sai\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\dotnet\myconsole\obj\Debug\net8.0\myconsole.dll
+C:\Users\vadde.c.sai\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\dotnet\myconsole\obj\Debug\net8.0\refint\myconsole.dll
+C:\Users\vadde.c.sai\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\dotnet\myconsole\obj\Debug\net8.0\myconsole.pdb
+C:\Users\vadde.c.sai\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\dotnet\myconsole\obj\Debug\net8.0\myconsole.genruntimeconfig.cache
+C:\Users\vadde.c.sai\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\dotnet\myconsole\obj\Debug\net8.0\ref\myconsole.dll
